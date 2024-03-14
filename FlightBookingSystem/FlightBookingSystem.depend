@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1704202455 source:c:\users\mpho\documents\c++ code\flightbookingsystem\main.cpp
+	<iostream>
+	"FlightBookingSystem.h"
+
+1704202252 c:\users\mpho\documents\c++ code\flightbookingsystem\include\flightbookingsystem.h
+	<string>
+	<unordered_set>
+
+1704202936 source:c:\users\mpho\documents\c++ code\flightbookingsystem\src\flightbookingsystem.cpp
+	"FlightBookingSystem.h"
+	<iomanip>
+	<string>
+	<iostream>
+	<unordered_set>
+
